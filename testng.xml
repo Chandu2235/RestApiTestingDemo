@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="REST API Suite">
+    <test name="User API Tests">
+        <classes>
+            <class name="com.api.automation.tests.UserApiTest"/>
+        </classes>
+    </test>
+</suite>
